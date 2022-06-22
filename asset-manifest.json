@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tailwind-test/static/css/main.325e7771.css",
+    "main.js": "/tailwind-test/static/js/main.bd19b4e3.js",
+    "static/media/monkmain.png": "/tailwind-test/static/media/monkmain.14283da1c3f5944c5213.png",
+    "static/media/monk.jpeg": "/tailwind-test/static/media/monk.8d7c138c205ee225b405.jpeg",
+    "index.html": "/tailwind-test/index.html",
+    "main.325e7771.css.map": "/tailwind-test/static/css/main.325e7771.css.map",
+    "main.bd19b4e3.js.map": "/tailwind-test/static/js/main.bd19b4e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.325e7771.css",
+    "static/js/main.bd19b4e3.js"
+  ]
+}
